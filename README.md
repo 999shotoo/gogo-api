@@ -3,7 +3,6 @@
 Modified api of [Gogoanime-api](https://github.com/riimuru/gogoanime-api)
 
 ### Installing
-
 Clone the Repository and run
 
 
